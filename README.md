@@ -34,7 +34,7 @@ I am a Full-Stack Developer and B.Tech student driven by a passion for building 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [www.linkedin.com/in/maddineni-harsha-vardhan-1b9408292]
-* **Portfolio:** [Insert your portfolio website URL]
+* **LinkedIn:** [[www.linkedin.com/in/maddineni-harsha-vardhan-1b9408292](https://www.linkedin.com/in/maddineni-harsha-vardhan-1b9408292/)]
+* **Portfolio:** [[Insert your portfolio website URL](https://harshavardhan3108.github.io/harsha-portfolio/)]
 * **Email:** [harshavardhan.maddineni@gmail.com](mailto:harshavardhan.maddineni@gmail.com)
 * **Phone:** .[+91 9490266168]
